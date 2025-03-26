@@ -1,0 +1,10 @@
+{
+  "id": "welcome_toast",
+  "title": "Welcome to Toasts!",
+  "subtitle": "Thanks for installing the mod!",
+  "icon": "minecraft:book",
+  "background": "#222222",
+  "text_color": "#ffffff",
+  "subtitle_color": "#cccccc",
+  "duration": 80
+} 
